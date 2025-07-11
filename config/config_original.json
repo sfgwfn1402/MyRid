@@ -1,0 +1,17 @@
+{
+  "dbinfo": {
+    "host": "10.102.1.182",
+    "port": 5432,
+    "dbname": "gisc",
+    "user": "postgres",
+    "pw": "Wanji300552"
+  },
+  "tab_nodes": "osm_nodes",
+  "tab_segment": "osm_segment",
+  "tab_rid": "rid_rid",
+  "tab_cross": "rid_cross",
+  "tab_lane": "rid_lane_obj",
+  "tab_axf": "rid_axf_three",
+  "schema": "public",
+  "ad_code":"110000"
+}

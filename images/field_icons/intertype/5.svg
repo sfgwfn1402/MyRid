@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>匝道、出入口</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="匝道、出入口" fill="#4897FD" fill-rule="nonzero">
+            <path d="M17.16,19.65125 C20.128,18.27525 21.944,17.21125 29.6,16.22725 C29.6,16.22725 29.944,16.21125 30.08,16.21125 C30.096,16.21925 32,17.93925 32,17.93925 C32,17.93925 29.952,19.75525 29.888,19.75525 L29.68,19.76325 C23.84,20.78725 19.144,22.70725 17.16,24.51525 L17.16,31.08325 L12.52,31.08325 L12.52,2.79525 L14.84,0.01125 L17.16,2.79525 L17.16,19.65125 Z M0,10.12325 L2.784,8.03525 L11.128,8.03525 L11.128,12.21125 L2.776,12.21125 L0,10.12325 Z" id="形状"></path>
+        </g>
+    </g>
+</svg>

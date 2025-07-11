@@ -1,0 +1,29 @@
+{
+  "dbinfo": {
+    "输入的数据库信息": "",
+    "host": "106.120.201.126",
+    "port": 14727,
+    "dbname": "gisc_jinan_1101",
+    "user": "postgres",
+    "pw": "Wanji300552"
+  },
+  "input_rid_tab": {
+    "输入的原始rid表": "",
+    "schema": "public",
+    "tab_rid": "rid_rid",
+    "tab_point": "location_points",
+    "field_rid": "rid",
+    "field_openlr": "openlr_base64",
+    "field_geom": "geom",
+    "field_line_first_fow": "form_way",
+    "field_line_first_rc": "roadclass",
+    "field_line_end_fow": "form_way",
+    "field_line_end_rc": "roadclass",
+    "field_point_fow": "form_way",
+    "field_point_rc": "roadclass",
+    "max_len": 15000,
+    "other_sql": "",
+    "other_sql1": "and bb=1 and (for64='' or for64 is Null)",
+    "frc_fow_sql": "case when (road_class = 41000) then 0 when (road_class = 43000) then 1 when (road_class in (42000, 44000)) then 2 when (road_class = 51000) then 3 when (road_class in (45000, 52000)) then 4 when (road_class in (47000, 53000)) then 5 ELSE 5 end as sfrc, case when (from_way=1) then 1 when (from_way=15) then 3 when (from_way=4) then 2 when (from_way in (5, 53,56,58)) then 5 when (from_way in (3,6,7,8,9,10)) then 6 when (from_way in (11,12,13,14,16)) then 7 ELSE 7 end as sfrom_way"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "dbinfo": {
+    "host": "localhost",
+    "port": 5432,
+    "dbname": "gisc_haikou",
+    "user": "postgres",
+    "pw": "123456"
+  },
+  "tab_nodes": "osm_nodes",
+  "tab_segment": "osm_segment",
+  "tab_link": "gaode_link",
+  "tab_rid": "rid_rid",
+  "tab_cross": "rid_cross",
+  "tab_lane": "rid_lane_obj",
+  "tab_axf": "rid_axf_three",
+  "tab_openlr_nodes": "data_nodes_openlr",
+  "tab_openlr_lines": "data_lines_openlr",
+  "tab_output": "data_openlr",
+  "tab_match": "data_openlr_match",
+  "my_config": {
+    "min_score": 0.2,
+    "search_radius": 40,
+    "max_dnp_deviation": 0.15,
+    "max_bear_deviation": 45,
+    "fow_weight": 0.05,
+    "frc_weight": 0.05,
+    "geo_weight": 0.55,
+    "bear_weight": 0.35,
+    "bear_dist": 40,
+    "tolerated_dnp_dev": 30
+  },
+  "schema": "public",
+  "ad_code": "460100"
+}

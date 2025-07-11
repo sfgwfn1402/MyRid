@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>十字路口</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="十字路口" transform="translate(1.000000, 1.000000)" fill-rule="nonzero" stroke="#4B96FB">
+            <path d="M11.5,0 L12.5,0 L12.5,12.5 L11.5,12.5 L11.5,0 Z M19.5,0 L20.5,0 L20.5,12.5 L19.5,12.5 L19.5,0 Z M11.5,19.5 L12.5,19.5 L12.5,32 L11.5,32 L11.5,19.5 Z M19.5,19.5 L20.5,19.5 L20.5,32 L19.5,32 L19.5,19.5 Z" id="形状"></path>
+            <path d="M0,19.5 L12,19.5 L12,20.5 L0,20.5 L0,19.5 Z M0,11.5 L12,11.5 L12,12.5 L0,12.5 L0,11.5 Z M20,19.5 L32,19.5 L32,20.5 L20,20.5 L20,19.5 Z M20,11.5 L32,11.5 L32,12.5 L20,12.5 L20,11.5 Z" id="形状"></path>
+        </g>
+    </g>
+</svg>

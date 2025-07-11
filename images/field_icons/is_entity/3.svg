@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>掉头口</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="掉头口" fill="#4897FD" fill-rule="nonzero">
+            <g id="掉头口-copy-2">
+                <polygon id="路径" points="12 0 13 0 13 12.5 12 12.5"></polygon>
+                <polygon id="路径" points="23 0 24 0 24 12.5 23 12.5"></polygon>
+                <polygon id="路径" points="12 21.5 13 21.5 13 34 12 34"></polygon>
+                <polygon id="路径" points="23 21.5 24 21.5 24 34 23 34"></polygon>
+                <polygon id="路径" points="0 22 12 22 12 23 0 23"></polygon>
+                <polygon id="路径" points="0 12 12 12 12 13 0 13"></polygon>
+                <polygon id="路径" points="23 22 35 22 35 23 23 23"></polygon>
+                <polygon id="路径" points="23 12 35 12 35 13 23 13"></polygon>
+            </g>
+            <g id="掉头-copy" transform="translate(14.000000, 15.000000)">
+                <path d="M2.33333333,6.34117647 L3.5,6.34117647 L1.75,14.2676471 L0,6.34117647 L1.16666667,6.34117647 L1.16666667,2.83088235 C1.16666667,1.26744265 2.47251666,0 4.08333333,0 C5.65506667,0 6.93653333,1.20674853 6.99766668,2.71764706 L7,2.71764706 L7,19.25 L5.83333333,19.25 L5.83333333,3.51029412 L5.83298334,3.47473824 C5.8135,2.55300294 5.03755,1.81176471 4.08333333,1.81176471 C3.14148333,1.81176471 2.37334999,2.53397943 2.33485,3.43895588 L2.33368332,3.47473824 L2.33333333,3.51029412 L2.33333333,6.34117647 Z" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>
