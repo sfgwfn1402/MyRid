@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "路口点",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486475, "lkid": "12Q4E099AN0", "lkmc": "全力二路与全力南路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.087743043054303, 30.447049572595585 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 495341, "lkid": "12Q2K099BL0", "lkmc": "硃山湖大道与全力三路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.081938703162635, 30.450102838376207 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 495440, "lkid": "12Q3Q099DU0", "lkmc": "东风大道与全力二路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.085851702341131, 30.457449583504633 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486291, "lkid": "12Q5V099C30", "lkmc": "朱山湖大道与全力一路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.09274242828802, 30.45153073875553 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486388, "lkid": "12QB3099DJ0", "lkmc": "朱山湖大道与枫树五路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.109089082681209, 30.45635262039734 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486460, "lkid": "12Q47099BS0", "lkmc": "朱山湖大道与全力二路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.087065173725364, 30.450802221336929 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486523, "lkid": "12Q5J099E60", "lkmc": "东风大道(试点)与全力一路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.091491579047371, 30.458274614320757 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 486665, "lkid": "12Q7M099CF0", "lkmc": "朱山湖大道与枫树七路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.097631645231232, 30.452685553557256 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496421, "lkid": "12QCG099E80", "lkmc": "朱山湖大道与枫树四路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.113702121274116, 30.458485315038125 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496422, "lkid": "12QBQ099CE0", "lkmc": "枫树五路与无名道路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.111403857156532, 30.45272827215452 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496423, "lkid": "12Q9V099FE0", "lkmc": "东风大道与枫树五路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.105409144944645, 30.462275942599192 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496424, "lkid": "12QD9099D50", "lkmc": "枫树四路与枫树南路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.114757649129771, 30.456795017896457 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496425, "lkid": "12QG4099EE0", "lkmc": "枫树二路与枫树南路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.124006063480778, 30.460918010918363 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496430, "lkid": "12QFC099FK0", "lkmc": "朱山湖大道与枫树二路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.12285089833486, 30.462788117218324 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496431, "lkid": "12QH3099GD0", "lkmc": "朱山湖大道与枫树一路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.128233986882336, 30.465401251176708 ] } },
+{ "type": "Feature", "properties": { "featureType": "ChinaIntersectionShape", "featureId": 496433, "lkid": "12QBC099G40", "lkmc": "东风大道与枫树四路交叉口" }, "geometry": { "type": "Point", "coordinates": [ 114.109959301275381, 30.464447595205023 ] } }
+]
+}
